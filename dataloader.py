@@ -4,7 +4,6 @@ import os, sys, shutil
 import numpy as np 
 import random 
 
-
 class DataGenerator(object):
     """
     Data Generator capable of generating batches of Omniglot data.
