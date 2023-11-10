@@ -4,7 +4,7 @@ import tensorflow as tf
 from tensorflow.keras import layers
 import datetime
 from tqdm import tqdm
-from data_generator import DataGenerator
+from data_loader import DataGenerator
 
 
 class Trainer:
@@ -77,7 +77,6 @@ class Trainer:
               data_generator: DataGenerator, 
               num_classes: int, 
               num_samples: int, 
-              model_name: str, 
               summary_writer, 
               training_steps):
 
@@ -91,7 +90,6 @@ class Trainer:
                                                      each epochs.
                 num_classes(dtype: int): Number of classes in a task in support set and query set.
                 num_samples(dtype: int): Number of samples/ instance per classes in a task. 
-                model_name(dtype: str): Name of the model variant.
                 summary_writer: It is used for recording the metrics for each epochs/ steps
                 training_step(dtype: int): Total number of epochs/ steps
 
@@ -130,3 +128,10 @@ class Trainer:
 
 
         return model, self.test_accs
+
+
+if __name__ == "__main__":
+    inputs = tf.zeros((10, 2, 3, 784))
+    labels = tf.zeros((10, 2, 3, 3))
+
+    print("cannot be called directly")
