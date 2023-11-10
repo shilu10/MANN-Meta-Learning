@@ -76,3 +76,16 @@ class MANN(tf.keras.Model):
         return tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(
         labels=labels[:, -1, :, :], logits=preds[:, -1, :, :]))
         #############################
+
+
+if __name__ == '__main__':
+    input_images = tf.zeros((10, 3, 5, 768))
+    input_labels = tf.zeros((10, 3, 5, 5)) 
+    num_classes = 5 
+    num_samples_per_class = 3 
+    model_size = 128
+
+    mann_model = MANN(num_classes, num_samples_per_class, model_size)
+    model_output = mann_model(input_images, input_labels)
+
+    print(model_output.shape)
