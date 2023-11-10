@@ -9,8 +9,8 @@ def main(config):
             dest_path="./omniglot_resized1.zip",
             unzip=True,
         )
-    os.system('rm omniglot_resized1.zip')
-    os.system('mv omniglot_resized1 data')
+    os.system('rm omniglot_resized.zip')
+    #os.system('cp -r omniglot_resized data')
     
 
 if __name__ == "__main__":

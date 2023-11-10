@@ -41,7 +41,7 @@ def main(config):
         data_generator=data_generator,
         num_classes=config.num_classes,
         num_samples=config.num_shot,
-        eval_freq=eval_freq,
+        eval_freq=config.eval_freq,
         meta_batch_size=config.meta_batch_size,
         summary_writer=summary_writer,
         training_steps=config.train_steps
