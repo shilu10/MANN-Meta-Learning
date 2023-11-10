@@ -4,7 +4,6 @@ import tensorflow as tf
 from scipy import misc
 
 
-
 def get_images(paths, labels, nb_samples=None, shuffle=True):
     """
     Takes a set of character folders and labels and returns paths to image files
