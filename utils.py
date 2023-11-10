@@ -2,6 +2,7 @@ import numpy as np
 import os, sys, shutil 
 import tensorflow as tf 
 from scipy import misc
+import random 
 
 
 def get_images(paths, labels, nb_samples=None, shuffle=True):
