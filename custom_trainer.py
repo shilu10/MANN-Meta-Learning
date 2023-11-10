@@ -4,7 +4,7 @@ import tensorflow as tf
 from tensorflow.keras import layers
 import datetime
 from tqdm import tqdm
-from data_loader import DataGenerator
+from dataloader import DataGenerator
 
 
 class Trainer:
