@@ -21,7 +21,8 @@ class Trainer:
         self.test_accs = []
 
     @tf.function
-    def _train_step(images: tf.Tensor, 
+    def _train_step(self, 
+                  images: tf.Tensor, 
                   labels: tf.Tensor, 
                   model: tf.keras.Model, 
                   optim: tf.keras.optimizers.Optimizer, 
@@ -72,7 +73,7 @@ class Trainer:
         
         return predictions, loss 
 
-    def train(model: tf.keras.Model, 
+    def train(self, model: tf.keras.Model, 
               optimizer: tf.keras.optimizers.Optimizer, 
               data_generator: DataGenerator, 
               num_classes: int, 
