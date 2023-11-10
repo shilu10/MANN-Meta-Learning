@@ -77,6 +77,8 @@ class Trainer:
               data_generator: DataGenerator, 
               num_classes: int, 
               num_samples: int, 
+              eval_freq: int,
+              meta_batch_size: int,
               summary_writer, 
               training_steps):
 
@@ -90,6 +92,7 @@ class Trainer:
                                                      each epochs.
                 num_classes(dtype: int): Number of classes in a task in support set and query set.
                 num_samples(dtype: int): Number of samples/ instance per classes in a task. 
+                eval_freq(dtype: int): At what frequency we need to save and show the testing data results.
                 summary_writer: It is used for recording the metrics for each epochs/ steps
                 training_step(dtype: int): Total number of epochs/ steps
 
@@ -97,6 +100,8 @@ class Trainer:
                 this method returns the trained model and test_accs calculated over epochs.
 
         """
+        meta_train_batch_size = meta_batch_size 
+        meta_test_batch_size = meta_batch_size
 
         for step in tqdm(range(training_steps), total=training_steps):
             # train step
