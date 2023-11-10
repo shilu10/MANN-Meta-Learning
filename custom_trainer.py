@@ -109,7 +109,7 @@ class Trainer:
             images, labels = data_generator.sample_batch('train', meta_train_batch_size)
             train_prediction, train_loss = self._train_step(images, labels, model, optimizer)
 
-            if (step + 1) % config.get("log_every") == 0:
+            if (step + 1) % eval_freq == 0:
                 print("*" * 5 + "Iter " + str(step + 1) + "*" * 5)
 
                 # testing
