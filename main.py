@@ -25,8 +25,8 @@ def main(config):
     log_dir = f'logs/{model_name}'
     summary_writer = tf.summary.create_file_writer(log_dir)
 
-    data_generator = DataGenerator(num_classes=num_classes, 
-                                  num_samples_per_class=num_samples + 1)
+    data_generator = DataGenerator(num_classes=config.num_classes, 
+                                  num_samples_per_class=config.num_shot + 1)
 
     model = MANN(num_classes=config.num_classes, 
                 samples_per_class=config.num_shot + 1, 
