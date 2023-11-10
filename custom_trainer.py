@@ -24,7 +24,7 @@ class Trainer:
     def _train_step(images: tf.Tensor, 
                   labels: tf.Tensor, 
                   model: tf.keras.Model, 
-                  optim: tf.keras.Optimizer, 
+                  optim: tf.keras.optimizers.Optimizer, 
                   eval: bool =False):
 
         """
@@ -73,7 +73,7 @@ class Trainer:
         return predictions, loss 
 
     def train(model: tf.keras.Model, 
-              optimizer: tf.keras.Optimizer, 
+              optimizer: tf.keras.optimizers.Optimizer, 
               data_generator: DataGenerator, 
               num_classes: int, 
               num_samples: int, 
