@@ -30,7 +30,7 @@ def main(config):
 
     model = MANN(num_classes=config.num_classes, 
                 samples_per_class=config.num_shot + 1, 
-                model_size=config.hidden_size)
+                model_size=config.hidden_dim)
 
     optimizer = tf.keras.optimizers.Adam(learning_rate=config.learning_rate)
 
