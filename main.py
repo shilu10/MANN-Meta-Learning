@@ -4,7 +4,7 @@ import tensorflow as tf
 from tensorflow import keras 
 import matplotlib.pyplot as plt 
 from dataloader import DataGenerator 
-from customer_trainer import Trainer 
+from custom_trainer import Trainer 
 from mann import MANN 
 from utils import * 
 import argparse
