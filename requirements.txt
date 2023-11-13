@@ -64,7 +64,7 @@ dask==2023.8.1
 datascience==0.17.6
 db-dtypes==1.1.1
 dbus-python==1.2.18
-debugpy==1.6.6
+debugpy==1.8.0
 decorator==4.4.2
 defusedxml==0.7.1
 diskcache==5.6.3
