@@ -116,7 +116,7 @@ geopandas==0.13.2
 geopy==2.3.0
 gin-config==0.5.0
 glob2==0.7
-google==2.0.3
+google==3.0.0
 google-api-core==2.11.1
 google-api-python-client==2.84.0
 google-auth==2.17.3
