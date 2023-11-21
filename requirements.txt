@@ -283,7 +283,7 @@ peewee==3.17.0
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==9.4.0
-pip-tools==6.13.0
+pip-tools==7.3.0
 platformdirs==3.11.0
 plotly==5.15.0
 plotnine==0.12.4
