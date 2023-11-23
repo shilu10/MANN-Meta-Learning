@@ -453,7 +453,7 @@ websocket-client==1.6.4
 Werkzeug==3.0.1
 widgetsnbextension==3.6.6
 wordcloud==1.9.2
-wrapt==1.14.1
+wrapt==1.16.0
 xarray==2023.7.0
 xarray-einstats==0.6.0
 xgboost==2.0.1
