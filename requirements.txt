@@ -159,7 +159,7 @@ httplib2==0.22.0
 humanize==4.7.0
 hyperopt==0.2.7
 ibis-framework==7.1.0
-idna==3.4
+idna==3.5
 imageio==2.32.0
 imageio-ffmpeg==0.4.9
 imagesize==1.4.1
