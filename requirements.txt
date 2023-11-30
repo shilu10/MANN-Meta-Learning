@@ -230,7 +230,7 @@ missingno==0.5.2
 mistune==0.8.4
 mizani==0.10.0
 mkl==2023.2.0
-ml-dtypes==0.2.0
+ml-dtypes==0.3.1
 mlxtend==0.23.0
 more-itertools==10.1.0
 moviepy==1.0.3
