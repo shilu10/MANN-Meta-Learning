@@ -99,7 +99,7 @@ Flask==3.0.0
 flatbuffers==23.5.26
 flax==0.7.5
 folium==0.14.0
-fonttools==4.45.1
+fonttools==4.46.0
 frozendict==2.3.8
 frozenlist==1.4.0
 fsspec==2023.12.0
