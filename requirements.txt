@@ -107,7 +107,7 @@ future==0.18.3
 gast==0.5.4
 gcsfs==2023.6.0
 GDAL==3.8.1
-gdown==4.6.6
+gdown==4.7.1
 geemap==0.28.2
 gensim==4.3.2
 geocoder==1.38.1
