@@ -108,7 +108,7 @@ gast==0.5.4
 gcsfs==2023.12.2.post1
 GDAL==3.8.1
 gdown==4.7.1
-geemap==0.28.2
+geemap==0.29.6
 gensim==4.3.2
 geocoder==1.38.1
 geographiclib==2.0
