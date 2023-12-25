@@ -295,7 +295,7 @@ prefetch-generator==1.0.3
 preshed==3.0.9
 prettytable==3.9.0
 proglog==0.1.10
-progressbar2==4.2.0
+progressbar2==4.3.2
 prometheus-client==0.18.0
 promise==2.3
 prompt-toolkit==3.0.43
