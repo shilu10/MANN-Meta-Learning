@@ -416,7 +416,7 @@ terminado==0.18.0
 text-unidecode==1.3
 textblob==0.17.1
 tf-slim==1.1.0
-thinc==8.1.12
+thinc==8.2.2
 threadpoolctl==3.2.0
 tifffile==2023.12.9
 tinycss2==1.2.1
