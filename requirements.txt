@@ -268,7 +268,7 @@ osqp==0.6.3
 packaging==23.2
 pandas==2.1.3
 pandas-datareader==0.10.0
-pandas-gbq==0.19.2
+pandas-gbq==0.20.0
 pandas-stubs==2.1.1.230928
 pandocfilters==1.5.0
 panel==1.3.1
