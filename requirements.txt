@@ -97,7 +97,7 @@ fiona==1.9.5
 firebase-admin==5.3.0
 Flask==3.0.0
 flatbuffers==23.5.26
-flax==0.7.5
+flax==0.8.0
 folium==0.15.1
 fonttools==4.47.0
 frozendict==2.3.10
