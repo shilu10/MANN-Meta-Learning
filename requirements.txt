@@ -198,7 +198,7 @@ jupyter_core==5.7.1
 jupyterlab-pygments==0.3.0
 jupyterlab-widgets==3.0.9
 kaggle==1.6.3
-keras==3.0.2
+keras==3.0.4
 keyring==24.3.0
 kiwisolver==1.4.5
 langcodes==3.3.0
