@@ -19,7 +19,7 @@ audioread==3.0.1
 autograd==1.6.2
 Babel==2.14.0
 backcall==0.2.0
-beautifulsoup4==4.12.2
+beautifulsoup4==4.12.3
 bidict==0.22.1
 bigframes==0.18.0
 bleach==6.1.0
