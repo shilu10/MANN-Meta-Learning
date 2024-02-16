@@ -208,7 +208,7 @@ lazr.uri==1.0.6
 lazy_loader==0.3
 libclang==16.0.6
 librosa==0.10.1
-lida==0.0.10
+lida==0.0.14
 lightgbm==4.3.0
 linkify-it-py==2.0.3
 llmx==0.0.18a0
