@@ -252,7 +252,7 @@ nibabel==5.2.0
 nltk==3.8.1
 notebook==7.1.0
 notebook_shim==0.2.3
-numba==0.58.1
+numba==0.59.0
 numexpr==2.9.0
 numpy==1.26.3
 oauth2client==4.1.3
