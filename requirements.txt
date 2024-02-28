@@ -251,7 +251,7 @@ networkx==3.2.1
 nibabel==5.2.0
 nltk==3.8.1
 notebook==7.1.0
-notebook_shim==0.2.3
+notebook_shim==0.2.4
 numba==0.59.0
 numexpr==2.9.0
 numpy==1.26.3
