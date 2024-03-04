@@ -339,7 +339,7 @@ pytensor==2.17.1
 pytest==7.4.3
 python-apt==0.0.0
 python-box==7.1.1
-python-dateutil==2.8.2
+python-dateutil==2.9.0.post0
 python-louvain==0.16
 python-slugify==8.0.4
 python-utils==3.8.2
