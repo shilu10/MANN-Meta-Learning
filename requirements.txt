@@ -313,7 +313,7 @@ pyasn1-modules==0.3.0
 pycocotools==2.0.7
 pycparser==2.21
 pyct==0.5.0
-pydantic==2.6.1
+pydantic==2.6.3
 pydata-google-auth==1.8.2
 pydot==2.0.0
 pydot-ng==2.0.0
