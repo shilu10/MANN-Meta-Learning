@@ -263,7 +263,7 @@ opencv-python-headless==4.9.0.80
 openpyxl==3.1.2
 opt-einsum==3.3.0
 optax==0.2.1
-orbax-checkpoint==0.5.3
+orbax-checkpoint==0.5.6
 osqp==0.6.5
 packaging==24.0
 pandas==2.2.0
