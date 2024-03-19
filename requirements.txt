@@ -402,7 +402,7 @@ tblib==3.0.0
 tenacity==8.2.3
 tensorboard==2.16.2
 tensorboard-data-server==0.7.2
-tensorflow==2.15.0.post1
+tensorflow==2.16.1
 tensorflow-datasets==4.9.4
 tensorflow-estimator==2.15.0
 tensorflow-gcs-config==2.15.0
