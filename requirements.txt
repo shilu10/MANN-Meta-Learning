@@ -383,7 +383,7 @@ spacy-legacy==3.0.12
 spacy-loggers==1.0.5
 Sphinx==7.2.6
 sphinxcontrib-applehelp==1.0.7
-sphinxcontrib-devhelp==1.0.5
+sphinxcontrib-devhelp==1.0.6
 sphinxcontrib-htmlhelp==2.0.4
 sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.7
