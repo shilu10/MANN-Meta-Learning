@@ -440,7 +440,7 @@ types-pytz==2024.1.0.20240203
 types-setuptools==69.1.0.20240302
 typing_extensions==4.9.0
 tzlocal==5.2
-uc-micro-py==1.0.2
+uc-micro-py==1.0.3
 uritemplate==4.1.1
 urllib3==2.2.1
 vega-datasets==0.9.0
