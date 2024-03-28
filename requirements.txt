@@ -286,7 +286,7 @@ Pillow==10.2.0
 pip-tools==7.4.1
 platformdirs==4.1.0
 plotly==5.20.0
-plotnine==0.12.4
+plotnine==0.13.3
 pluggy==1.4.0
 polars==0.20.16
 pooch==1.8.0
