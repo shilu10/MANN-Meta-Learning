@@ -293,7 +293,7 @@ pooch==1.8.0
 portpicker==1.6.0
 prefetch-generator==1.0.3
 preshed==3.0.9
-prettytable==3.9.0
+prettytable==3.10.0
 proglog==0.1.10
 progressbar2==4.3.2
 prometheus-client==0.20.0
