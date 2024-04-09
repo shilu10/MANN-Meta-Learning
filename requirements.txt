@@ -288,7 +288,7 @@ platformdirs==4.2.0
 plotly==5.20.0
 plotnine==0.13.3
 pluggy==1.4.0
-polars==0.20.16
+polars==0.20.19
 pooch==1.8.0
 portpicker==1.6.0
 prefetch-generator==1.0.3
