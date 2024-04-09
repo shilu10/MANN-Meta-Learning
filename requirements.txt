@@ -199,7 +199,7 @@ jupyterlab-pygments==0.3.0
 jupyterlab-widgets==3.0.10
 kaggle==1.6.6
 keras==3.1.1
-keyring==24.3.1
+keyring==25.1.0
 kiwisolver==1.4.5
 langcodes==3.3.0
 launchpadlib==1.11.0
