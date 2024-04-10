@@ -247,7 +247,7 @@ nbclient==0.9.0
 nbconvert==7.16.2
 nbformat==5.10.3
 nest-asyncio==1.6.0
-networkx==3.2.1
+networkx==3.3
 nibabel==5.2.1
 nltk==3.8.1
 notebook==7.1.1
