@@ -72,7 +72,7 @@ distributed==2024.3.1
 distro==1.9.0
 dlib==19.24.2
 dm-tree==0.1.8
-docutils==0.20.1
+docutils==0.21.1
 dopamine-rl==4.0.6
 duckdb==0.10.1
 earthengine-api==0.1.395
