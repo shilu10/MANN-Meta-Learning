@@ -51,7 +51,7 @@ community==1.0.0b1
 confection==0.1.4
 cons==0.4.6
 contextlib2==21.6.0
-contourpy==1.2.0
+contourpy==1.2.1
 cryptography==42.0.5
 cufflinks==0.17.3
 cupy-cuda11x==13.0.0
