@@ -272,7 +272,7 @@ pandas-gbq==0.22.0
 pandas-stubs==2.2.1.240316
 pandocfilters==1.5.1
 panel==1.4.1
-param==2.0.2
+param==2.1.0
 parso==0.8.3
 parsy==2.1
 partd==1.4.1
