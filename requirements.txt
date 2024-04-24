@@ -284,7 +284,7 @@ pexpect==4.9.0
 pickleshare==0.7.5
 Pillow==10.3.0
 pip-tools==7.4.1
-platformdirs==4.2.0
+platformdirs==4.2.1
 plotly==5.20.0
 plotnine==0.13.3
 pluggy==1.4.0
