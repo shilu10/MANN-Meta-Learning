@@ -356,7 +356,7 @@ regex==2024.4.28
 requests==2.31.0
 requests-oauthlib==2.0.0
 requirements-parser==0.9.0
-rich==13.6.0
+rich==13.7.1
 rpds-py==0.18.0
 rpy2==3.5.15
 rsa==4.9
