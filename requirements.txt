@@ -368,7 +368,7 @@ scs==3.2.4.post1
 seaborn==0.13.2
 SecretStorage==3.3.3
 Send2Trash==1.8.3
-shapely==2.0.3
+shapely==2.0.4
 six==1.16.0
 sklearn-pandas==2.2.0
 smart-open==7.0.4
