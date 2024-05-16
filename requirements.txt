@@ -287,7 +287,7 @@ pip-tools==7.4.1
 platformdirs==4.2.1
 plotly==5.20.0
 plotnine==0.13.3
-pluggy==1.4.0
+pluggy==1.5.0
 polars==0.20.21
 pooch==1.8.1
 portpicker==1.6.0
