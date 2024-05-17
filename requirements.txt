@@ -76,7 +76,7 @@ docutils==0.21.2
 dopamine-rl==4.0.6
 duckdb==0.10.1
 earthengine-api==0.1.395
-easydict==1.12
+easydict==1.13
 ecos==2.0.13
 editdistance==0.8.1
 eerepr==0.0.4
