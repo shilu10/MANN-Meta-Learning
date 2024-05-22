@@ -275,7 +275,7 @@ panel==1.4.1
 param==2.1.0
 parso==0.8.4
 parsy==2.1
-partd==1.4.1
+partd==1.4.2
 pathlib==1.0.1
 pathy==0.11.0
 patsy==0.5.6
