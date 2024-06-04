@@ -211,7 +211,7 @@ librosa==0.10.2.post1
 lida==0.0.14
 lightgbm==4.3.0
 linkify-it-py==2.0.3
-llmx==0.0.18a0
+llmx==0.0.21a0
 llvmlite==0.42.0
 locket==1.0.0
 logical-unification==0.4.6
