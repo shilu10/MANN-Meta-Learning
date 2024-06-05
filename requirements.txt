@@ -348,7 +348,7 @@ pyviz_comms==3.0.2
 PyWavelets==1.6.0
 PyYAML==6.0.1
 pyzmq==26.0.3
-qdldl==0.1.7.post0
+qdldl==0.1.7.post2
 qudida==0.0.4
 ratelim==0.1.6
 referencing==0.35.1
