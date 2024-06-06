@@ -25,7 +25,7 @@ bigframes==1.1.0
 bleach==6.1.0
 blinker==1.7.0
 blis==0.9.1
-blosc2==2.5.1
+blosc2==2.6.2
 bokeh==3.4.1
 bqplot==0.12.43
 branca==0.7.2
