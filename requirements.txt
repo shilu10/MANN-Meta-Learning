@@ -228,7 +228,7 @@ mdurl==0.1.2
 miniKanren==1.0.3
 missingno==0.5.2
 mistune==3.0.2
-mizani==0.11.1
+mizani==0.11.4
 mkl==2024.1.0
 ml-dtypes==0.4.0
 mlxtend==0.23.1
