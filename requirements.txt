@@ -73,7 +73,7 @@ distro==1.9.0
 dlib==19.24.2
 dm-tree==0.1.8
 docutils==0.21.2
-dopamine-rl==4.0.6
+dopamine-rl==4.0.9
 duckdb==0.10.2
 earthengine-api==0.1.406
 easydict==1.13
