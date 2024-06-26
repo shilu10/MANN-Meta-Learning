@@ -98,7 +98,7 @@ firebase-admin==6.5.0
 Flask==3.0.3
 flatbuffers==24.3.25
 flax==0.8.3
-folium==0.16.0
+folium==0.17.0
 fonttools==4.53.0
 frozendict==2.4.0
 frozenlist==1.4.1
