@@ -289,7 +289,7 @@ plotly==5.22.0
 plotnine==0.13.6
 pluggy==1.5.0
 polars==0.20.31
-pooch==1.8.1
+pooch==1.8.2
 portpicker==1.6.0
 prefetch-generator==1.0.3
 preshed==3.0.9
