@@ -175,7 +175,7 @@ intel-openmp==2024.1.2
 ipyevents==2.0.2
 ipyfilechooser==0.6.0
 ipykernel==6.29.4
-ipyleaflet==0.18.2
+ipyleaflet==0.19.2
 ipython==8.24.0
 ipython-genutils==0.2.0
 ipython-sql==0.5.0
