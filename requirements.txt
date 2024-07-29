@@ -104,7 +104,7 @@ frozendict==2.4.0
 frozenlist==1.4.1
 fsspec==2024.3.1
 future==1.0.0
-gast==0.5.4
+gast==0.6.0
 gcsfs==2024.6.0
 GDAL==3.9.0
 gdown==5.2.0
