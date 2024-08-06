@@ -384,7 +384,7 @@ spacy-loggers==1.0.5
 Sphinx==7.3.7
 sphinxcontrib-applehelp==2.0.0
 sphinxcontrib-devhelp==1.0.6
-sphinxcontrib-htmlhelp==2.0.5
+sphinxcontrib-htmlhelp==2.1.0
 sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==2.0.0
 sphinxcontrib-serializinghtml==1.1.10
