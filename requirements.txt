@@ -100,7 +100,7 @@ flatbuffers==24.3.25
 flax==0.8.3
 folium==0.17.0
 fonttools==4.53.1
-frozendict==2.4.0
+frozendict==2.4.4
 frozenlist==1.4.1
 fsspec==2024.3.1
 future==1.0.0
