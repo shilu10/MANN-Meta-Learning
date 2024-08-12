@@ -165,7 +165,7 @@ imageio-ffmpeg==0.5.1
 imagesize==1.4.1
 imbalanced-learn==0.12.3
 imgaug==0.4.0
-importlib-metadata==7.1.0
+importlib-metadata==8.2.0
 importlib-resources==6.4.0
 imutils==0.5.4
 inflect==7.3.1
