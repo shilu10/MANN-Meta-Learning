@@ -269,7 +269,7 @@ packaging==24.1
 pandas==2.2.2
 pandas-datareader==0.10.0
 pandas-gbq==0.23.1
-pandas-stubs==2.2.2.240603
+pandas-stubs==2.2.2.240807
 pandocfilters==1.5.1
 panel==1.4.4
 param==2.1.1
