@@ -109,7 +109,7 @@ gcsfs==2024.9.0.post1
 GDAL==3.9.1
 gdown==5.2.0
 geemap==0.33.1
-gensim==4.3.2
+gensim==4.3.3
 geocoder==1.38.1
 geographiclib==2.0
 geopandas==1.0.1
