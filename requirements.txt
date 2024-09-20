@@ -202,7 +202,7 @@ keras==3.5.0
 keyring==25.2.1
 kiwisolver==1.4.5
 langcodes==3.4.0
-launchpadlib==1.11.0
+launchpadlib==2.0.0
 lazr.restfulclient==0.14.6
 lazr.uri==1.0.6
 lazy_loader==0.4
