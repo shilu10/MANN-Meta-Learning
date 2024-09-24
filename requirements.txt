@@ -392,7 +392,7 @@ SQLAlchemy==2.0.35
 sqlglot==24.1.0
 sqlparse==0.5.0
 srsly==2.4.8
-stanio==0.5.0
+stanio==0.5.1
 statsmodels==0.14.2
 sympy==1.13.3
 tables==3.10.1
