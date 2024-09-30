@@ -456,7 +456,7 @@ wordcloud==1.9.3
 wrapt==1.16.0
 xarray==2024.7.0
 xarray-einstats==0.8.0
-xgboost==2.1.0
+xgboost==2.1.1
 xlrd==2.0.1
 xxhash==3.4.1
 xyzservices==2024.6.0
