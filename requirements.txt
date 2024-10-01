@@ -346,7 +346,7 @@ python-utils==3.8.2
 pytz==2024.2
 pyviz_comms==3.0.3
 PyWavelets==1.7.0
-PyYAML==6.0.1
+PyYAML==6.0.2
 pyzmq==26.0.3
 qdldl==0.1.7.post4
 qudida==0.0.4
