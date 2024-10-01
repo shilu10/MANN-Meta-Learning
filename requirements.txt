@@ -37,7 +37,7 @@ certifi==2024.8.30
 cffi==1.17.1
 chardet==5.2.0
 charset-normalizer==3.3.2
-chex==0.1.86
+chex==0.1.87
 click==8.1.7
 click-plugins==1.1.1
 cligj==0.7.2
