@@ -235,7 +235,7 @@ mlxtend==0.23.1
 more-itertools==10.2.0
 moviepy==1.0.3
 mpmath==1.3.0
-msgpack==1.0.8
+msgpack==1.1.0
 multidict==6.1.0
 multipledispatch==1.0.0
 multitasking==0.0.11
