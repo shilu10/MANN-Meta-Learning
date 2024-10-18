@@ -201,7 +201,7 @@ kaggle==1.6.17
 keras==3.5.0
 keyring==25.4.1
 kiwisolver==1.4.5
-langcodes==3.4.0
+langcodes==3.4.1
 launchpadlib==2.0.0
 lazr.restfulclient==0.14.6
 lazr.uri==1.0.6
