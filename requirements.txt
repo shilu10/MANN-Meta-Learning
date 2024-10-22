@@ -361,7 +361,7 @@ rpds-py==0.20.0
 rpy2==3.5.15
 rsa==4.9
 scikit-image==0.24.0
-scikit-learn==1.5.1
+scikit-learn==1.5.2
 scipy==1.14.1
 scooby==0.10.0
 scs==3.2.7
