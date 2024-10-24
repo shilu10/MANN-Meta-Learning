@@ -454,7 +454,7 @@ Werkzeug==3.0.4
 widgetsnbextension==4.0.11
 wordcloud==1.9.3
 wrapt==1.16.0
-xarray==2024.7.0
+xarray==2024.9.0
 xarray-einstats==0.8.0
 xgboost==2.1.1
 xlrd==2.0.1
