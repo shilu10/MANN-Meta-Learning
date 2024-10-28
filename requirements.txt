@@ -29,7 +29,7 @@ blosc2==2.7.1
 bokeh==3.5.1
 bqplot==0.12.43
 branca==0.7.2
-build==1.2.2
+build==1.2.2.post1
 CacheControl==0.14.0
 cachetools==5.3.3
 catalogue==2.0.10
