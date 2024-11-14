@@ -131,7 +131,7 @@ google-cloud-firestore==2.17.0
 google-cloud-functions==1.16.5
 google-cloud-iam==2.15.2
 google-cloud-language==2.15.0
-google-cloud-resource-manager==1.12.5
+google-cloud-resource-manager==1.13.1
 google-cloud-storage==2.18.2
 google-cloud-translate==3.16.0
 google-colab @ file:///colabtools/dist/google-colab-1.0.0.tar.gz#sha256=4c84b49a6bd7986490b8e03df214c2ce8bece27d714a0f6a71a5da30f7a303a7
