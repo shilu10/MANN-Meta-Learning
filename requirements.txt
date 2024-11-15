@@ -410,7 +410,7 @@ tensorflow-hub==0.16.1
 tensorflow-io-gcs-filesystem==0.37.1
 tensorflow-metadata==1.16.1
 tensorflow-probability==0.25.0
-tensorstore==0.1.66
+tensorstore==0.1.68
 termcolor==2.4.0
 terminado==0.18.1
 text-unidecode==1.3
