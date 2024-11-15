@@ -22,7 +22,7 @@ backcall==0.2.0
 beautifulsoup4==4.12.3
 bidict==0.23.1
 bigframes==1.17.0
-bleach==6.1.0
+bleach==6.2.0
 blinker==1.8.2
 blis==1.0.1
 blosc2==2.7.1
