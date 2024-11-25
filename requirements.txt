@@ -105,7 +105,7 @@ frozenlist==1.4.1
 fsspec==2024.10.0
 future==1.0.0
 gast==0.6.0
-gcsfs==2024.9.0.post1
+gcsfs==2024.10.0
 GDAL==3.9.3
 gdown==5.2.0
 geemap==0.34.5
