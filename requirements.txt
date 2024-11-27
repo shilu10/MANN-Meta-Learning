@@ -381,7 +381,7 @@ soxr==0.5.0.post1
 spacy==3.8.2
 spacy-legacy==3.0.12
 spacy-loggers==1.0.5
-Sphinx==8.1.0
+Sphinx==8.1.3
 sphinxcontrib-applehelp==2.0.0
 sphinxcontrib-devhelp==2.0.0
 sphinxcontrib-htmlhelp==2.1.0
