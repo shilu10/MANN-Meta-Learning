@@ -240,7 +240,7 @@ multidict==6.1.0
 multipledispatch==1.0.0
 multitasking==0.0.11
 murmurhash==1.0.10
-music21==9.1.0
+music21==9.3.0
 natsort==8.4.0
 nbclassic==1.0.0
 nbclient==0.10.0
