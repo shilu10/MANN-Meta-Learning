@@ -303,7 +303,7 @@ prophet==1.1.6
 proto-plus==1.25.0
 protobuf==5.28.3
 psutil==6.0.0
-psycopg2==2.9.9
+psycopg2==2.9.10
 ptyprocess==0.7.0
 py-cpuinfo==9.0.0
 py4j==0.10.9.7
