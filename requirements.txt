@@ -160,7 +160,7 @@ humanize==4.10.0
 hyperopt==0.2.7
 ibis-framework==9.5.0
 idna==3.10
-imageio==2.35.1
+imageio==2.36.1
 imageio-ffmpeg==0.5.1
 imagesize==1.4.1
 imbalanced-learn==0.12.3
