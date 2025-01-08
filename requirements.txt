@@ -391,7 +391,7 @@ sphinxcontrib-serializinghtml==2.0.0
 SQLAlchemy==2.0.36
 sqlglot==24.1.0
 sqlparse==0.5.2
-srsly==2.4.8
+srsly==2.5.0
 stanio==0.5.1
 statsmodels==0.14.4
 sympy==1.13.3
