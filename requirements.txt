@@ -156,7 +156,7 @@ holoviews==1.20.0
 html5lib==1.1
 httpimport==1.4.0
 httplib2==0.22.0
-humanize==4.10.0
+humanize==4.11.0
 hyperopt==0.2.7
 ibis-framework==9.5.0
 idna==3.10
