@@ -338,7 +338,7 @@ PySocks==1.7.1
 pytensor==2.25.5
 pytest==8.3.3
 python-apt==0.0.0
-python-box==7.2.0
+python-box==7.3.2
 python-dateutil==2.9.0.post0
 python-louvain==0.16
 python-slugify==8.0.4
