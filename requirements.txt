@@ -12,7 +12,7 @@ array-record==0.5.1
 arviz==0.20.0
 astropy==7.0.0
 astunparse==1.6.3
-async-timeout==4.0.3
+async-timeout==5.0.1
 atpublic==5.0
 attrs==24.2.0
 audioread==3.0.1
