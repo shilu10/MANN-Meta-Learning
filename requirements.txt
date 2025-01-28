@@ -265,7 +265,7 @@ opt-einsum==3.4.0
 optax==0.2.3
 orbax-checkpoint==0.5.20
 osqp==0.6.7.post3
-packaging==24.1
+packaging==24.2
 pandas==2.2.3
 pandas-datareader==0.10.0
 pandas-gbq==0.23.2
