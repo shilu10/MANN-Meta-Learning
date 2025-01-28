@@ -41,7 +41,7 @@ chex==0.1.87
 click==8.1.7
 click-plugins==1.1.1
 cligj==0.7.2
-cloudpickle==3.0.0
+cloudpickle==3.1.1
 cmake==3.30.2
 cmdstanpy==1.2.4
 colorcet==3.1.0
