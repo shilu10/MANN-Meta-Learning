@@ -342,7 +342,7 @@ python-box==7.3.2
 python-dateutil==2.9.0.post0
 python-louvain==0.16
 python-slugify==8.0.4
-python-utils==3.8.2
+python-utils==3.9.1
 pytz==2024.2
 pyviz_comms==3.0.3
 PyWavelets==1.7.0
