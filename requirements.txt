@@ -314,7 +314,7 @@ pycocotools==2.0.8
 pycparser==2.22
 pyct==0.5.0
 pydantic==2.9.2
-pydata-google-auth==1.8.2
+pydata-google-auth==1.9.1
 pydot==3.0.4
 pydot-ng==2.0.0
 pydotplus==2.0.2
