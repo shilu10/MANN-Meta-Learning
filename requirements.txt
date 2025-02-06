@@ -204,7 +204,7 @@ kiwisolver==1.4.5
 langcodes==3.5.0
 launchpadlib==2.0.0
 lazr.restfulclient==0.14.6
-lazr.uri==1.0.6
+lazr.uri==1.0.7
 lazy_loader==0.4
 libclang==18.1.1
 librosa==0.10.2.post1
