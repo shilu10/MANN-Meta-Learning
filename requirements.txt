@@ -437,7 +437,7 @@ triton==3.0.0
 tweepy==4.15.0
 typer==0.15.1
 types-pytz==2024.2.0.20241221
-types-setuptools==75.8.0.20250110
+types-setuptools==75.8.0.20250210
 typing_extensions==4.12.2
 tzlocal==5.2
 uc-micro-py==1.0.3
