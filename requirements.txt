@@ -209,7 +209,7 @@ lazy_loader==0.3
 libclang==18.1.1
 librosa==0.10.1
 lida==0.0.10
-lightgbm==4.1.0
+lightgbm==4.6.0
 linkify-it-py==2.0.2
 llmx==0.0.15a0
 llvmlite==0.41.1
