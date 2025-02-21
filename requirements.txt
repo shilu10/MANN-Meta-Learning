@@ -344,7 +344,7 @@ python-louvain==0.16
 python-slugify==8.0.1
 python-utils==3.8.1
 pytz==2025.1
-pyviz_comms==3.0.0
+pyviz_comms==3.0.4
 PyWavelets==1.4.1
 PyYAML==6.0.1
 pyzmq==23.2.1
