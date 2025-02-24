@@ -212,7 +212,7 @@ lida==0.0.10
 lightgbm==4.6.0
 linkify-it-py==2.0.2
 llmx==0.0.15a0
-llvmlite==0.41.1
+llvmlite==0.44.0
 locket==1.0.0
 logical-unification==0.4.6
 lxml==5.3.1
