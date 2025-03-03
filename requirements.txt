@@ -229,7 +229,7 @@ miniKanren==1.0.3
 missingno==0.5.2
 mistune==3.1.2
 mizani==0.9.3
-mkl==2023.2.0
+mkl==2025.0.1
 ml-dtypes==0.2.0
 mlxtend==0.22.0
 more-itertools==10.1.0
