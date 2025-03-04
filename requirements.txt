@@ -405,7 +405,7 @@ tensorboard-data-server==0.7.2
 tensorflow==2.14.0
 tensorflow-datasets==4.9.3
 tensorflow-estimator==2.14.0
-tensorflow-gcs-config==2.14.0
+tensorflow-gcs-config==2.16.1
 tensorflow-hub==0.15.0
 tensorflow-io-gcs-filesystem==0.34.0
 tensorflow-metadata==1.14.0
