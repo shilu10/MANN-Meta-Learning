@@ -96,7 +96,7 @@ filelock==3.13.1
 fiona==1.9.5
 firebase-admin==5.3.0
 Flask==2.2.5
-flatbuffers==23.5.26
+flatbuffers==25.2.10
 flax==0.7.5
 folium==0.14.0
 fonttools==4.56.0
