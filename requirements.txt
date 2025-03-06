@@ -299,7 +299,7 @@ progressbar2==4.2.0
 prometheus-client==0.18.0
 promise==2.3
 prompt-toolkit==3.0.39
-prophet==1.1.5
+prophet==1.1.6
 proto-plus==1.22.3
 protobuf==3.20.3
 psutil==5.9.5
