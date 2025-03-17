@@ -210,7 +210,7 @@ libclang==18.1.1
 librosa==0.10.2
 lida==0.0.14
 lightgbm==4.6.0
-linkify-it-py==2.0.2
+linkify-it-py==2.0.3
 llmx==0.0.15a0
 llvmlite==0.44.0
 locket==1.0.0
