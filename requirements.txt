@@ -108,7 +108,7 @@ gast==0.5.4
 gcsfs==2023.6.0
 GDAL==3.10.2
 gdown==5.2.0
-geemap==0.28.2
+geemap==0.35.3
 gensim==4.3.2
 geocoder==1.38.1
 geographiclib==2.0
