@@ -329,7 +329,7 @@ pymc==5.7.2
 pymystem3==0.2.0
 PyOpenGL==3.1.7
 pyOpenSSL==23.3.0
-pyparsing==3.1.1
+pyparsing==3.2.2
 pyperclip==1.8.2
 pyproj==3.6.1
 pyproject_hooks==1.0.0
