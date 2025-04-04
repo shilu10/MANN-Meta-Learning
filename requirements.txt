@@ -323,7 +323,7 @@ PyDrive2==1.6.3
 pyerfa==2.0.1.1
 pygame==2.5.2
 Pygments==2.16.1
-PyGObject==3.42.1
+PyGObject==3.52.3
 PyJWT==2.3.0
 pymc==5.7.2
 pymystem3==0.2.0
