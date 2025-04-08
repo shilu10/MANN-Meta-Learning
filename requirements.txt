@@ -438,7 +438,7 @@ tweepy==4.14.0
 typer==0.15.2
 types-pytz==2025.1.0.20250204
 types-setuptools==78.1.0.20250329
-typing_extensions==4.12.2
+typing_extensions==4.13.1
 tzlocal==5.3
 uc-micro-py==1.0.2
 uritemplate==4.1.1
