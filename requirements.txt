@@ -36,7 +36,7 @@ catalogue==2.0.10
 certifi==2024.7.4
 cffi==1.16.0
 chardet==5.2.0
-charset-normalizer==3.3.2
+charset-normalizer==3.4.1
 chex==0.1.89
 click==8.1.7
 click-plugins==1.1.1
