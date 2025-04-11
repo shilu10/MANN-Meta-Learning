@@ -43,7 +43,7 @@ click-plugins==1.1.1
 cligj==0.7.2
 cloudpickle==2.2.1
 cmake==4.0.0
-cmdstanpy==1.2.0
+cmdstanpy==1.2.5
 colorcet==3.0.1
 colorlover==0.3.0
 colour==0.1.5
