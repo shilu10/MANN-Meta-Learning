@@ -294,7 +294,7 @@ portpicker==1.5.2
 prefetch-generator==1.0.3
 preshed==3.0.9
 prettytable==3.15.1
-proglog==0.1.10
+proglog==0.1.11
 progressbar2==4.2.0
 prometheus-client==0.18.0
 promise==2.3
