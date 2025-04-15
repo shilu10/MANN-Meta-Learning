@@ -215,7 +215,7 @@ llmx==0.0.15a0
 llvmlite==0.44.0
 locket==1.0.0
 logical-unification==0.4.6
-lxml==5.3.1
+lxml==5.3.2
 malloy==2023.1064
 Markdown==3.7
 markdown-it-py==3.0.0
