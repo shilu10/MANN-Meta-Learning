@@ -460,7 +460,7 @@ xgboost==2.1.4
 xlrd==2.0.1
 xxhash==3.5.0
 xyzservices==2025.1.0
-yarl==1.9.2
+yarl==1.20.0
 yellowbrick==1.5
 yfinance==0.2.54
 zict==3.0.0
