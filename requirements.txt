@@ -149,7 +149,7 @@ gspread==3.4.2
 gspread-dataframe==4.0.0
 gym==0.26.2
 gym-notices==0.0.8
-h5netcdf==1.3.0
+h5netcdf==1.6.1
 h5py==3.13.0
 holidays==0.69
 holoviews==1.17.1
