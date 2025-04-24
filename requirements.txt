@@ -406,7 +406,7 @@ tensorflow==2.18.1
 tensorflow-datasets==4.9.3
 tensorflow-estimator==2.14.0
 tensorflow-gcs-config==2.16.1
-tensorflow-hub==0.15.0
+tensorflow-hub==0.16.1
 tensorflow-io-gcs-filesystem==0.37.1
 tensorflow-metadata==1.17.1
 tensorflow-probability==0.22.0
