@@ -351,7 +351,7 @@ pyzmq==26.4.0
 qdldl==0.1.7.post0
 qudida==0.0.4
 ratelim==0.1.6
-referencing==0.30.2
+referencing==0.36.2
 regex==2023.6.3
 requests==2.32.3
 requests-oauthlib==2.0.0
