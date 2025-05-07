@@ -436,7 +436,7 @@ traittypes==0.2.1
 triton==3.2.0
 tweepy==4.14.0
 typer==0.15.3
-types-pytz==2025.1.0.20250204
+types-pytz==2025.2.0.20250326
 types-setuptools==78.1.0.20250329
 typing_extensions==4.13.2
 tzlocal==5.3
