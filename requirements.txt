@@ -138,7 +138,7 @@ google-colab @ file:///colabtools/dist/google-colab-1.0.0.tar.gz#sha256=4c84b49a
 google-crc32c==1.6.0
 google-pasta==0.2.0
 google-resumable-media==2.7.2
-googleapis-common-protos==1.61.0
+googleapis-common-protos==1.70.0
 googledrivedownloader==1.1.0
 graphviz==0.20.3
 greenlet==3.0.1
