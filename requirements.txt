@@ -462,7 +462,7 @@ xxhash==3.5.0
 xyzservices==2025.1.0
 yarl==1.20.0
 yellowbrick==1.5
-yfinance==0.2.54
+yfinance==0.2.61
 zict==3.0.0
 zipp==3.19.1
 
