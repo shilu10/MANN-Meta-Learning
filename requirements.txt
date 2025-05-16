@@ -33,7 +33,7 @@ build==1.0.3
 CacheControl==0.13.1
 cachetools==5.5.2
 catalogue==2.0.10
-certifi==2024.7.4
+certifi==2025.4.26
 cffi==1.16.0
 chardet==5.2.0
 charset-normalizer==3.4.1
