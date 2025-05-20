@@ -30,7 +30,7 @@ bokeh==3.4.3
 bqplot==0.12.42
 branca==0.7.0
 build==1.0.3
-CacheControl==0.13.1
+CacheControl==0.14.3
 cachetools==5.5.2
 catalogue==2.0.10
 certifi==2025.4.26
