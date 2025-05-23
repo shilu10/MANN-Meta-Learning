@@ -389,7 +389,7 @@ sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.6
 sphinxcontrib-serializinghtml==2.0.0
 SQLAlchemy==2.0.41
-sqlglot==26.16.2
+sqlglot==26.19.0
 sqlparse==0.5.3
 srsly==2.5.1
 stanio==0.3.0
