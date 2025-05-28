@@ -205,7 +205,7 @@ langcodes==3.3.0
 launchpadlib==2.1.0
 lazr.restfulclient==0.14.6
 lazr.uri==1.0.7
-lazy_loader==0.3
+lazy_loader==0.4
 libclang==18.1.1
 librosa==0.10.2
 lida==0.0.14
