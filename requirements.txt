@@ -439,7 +439,7 @@ typer==0.15.3
 types-pytz==2025.2.0.20250516
 types-setuptools==78.1.0.20250329
 typing_extensions==4.13.2
-tzlocal==5.3
+tzlocal==5.3.1
 uc-micro-py==1.0.3
 uritemplate==4.1.1
 urllib3==2.0.7
