@@ -145,7 +145,7 @@ greenlet==3.2.2
 grpc-google-iam-v1==0.14.2
 grpcio==1.59.2
 grpcio-status==1.68.1
-gspread==3.4.2
+gspread==6.2.1
 gspread-dataframe==4.0.0
 gym==0.26.2
 gym-notices==0.0.8
