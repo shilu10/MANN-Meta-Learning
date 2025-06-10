@@ -464,5 +464,5 @@ yarl==1.20.0
 yellowbrick==1.5
 yfinance==0.2.61
 zict==3.0.0
-zipp==3.22.0
+zipp==3.23.0
 
