@@ -357,7 +357,7 @@ requests==2.32.4
 requests-oauthlib==2.0.0
 requirements-parser==0.13.0
 rich==14.0.0
-rpds-py==0.24.0
+rpds-py==0.25.1
 rpy2==3.4.2
 rsa==4.9.1
 scikit-image==0.19.3
