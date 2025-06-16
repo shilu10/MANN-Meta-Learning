@@ -27,7 +27,7 @@ blinker==1.4
 blis==1.3.0
 blosc2==3.2.0
 bokeh==3.4.3
-bqplot==0.12.42
+bqplot==0.12.45
 branca==0.7.0
 build==1.0.3
 CacheControl==0.14.3
