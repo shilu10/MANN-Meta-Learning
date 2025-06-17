@@ -158,7 +158,7 @@ httpimport==1.4.1
 httplib2==0.22.0
 humanize==4.12.3
 hyperopt==0.2.7
-ibis-framework==10.5.0
+ibis-framework==10.6.0
 idna==3.10
 imageio==2.31.6
 imageio-ffmpeg==0.4.9
