@@ -300,7 +300,7 @@ prometheus-client==0.18.0
 promise==2.3
 prompt-toolkit==3.0.51
 prophet==1.1.7
-proto-plus==1.22.3
+proto-plus==1.26.1
 protobuf==6.31.1
 psutil==7.0.0
 psycopg2==2.9.9
