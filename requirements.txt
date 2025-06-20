@@ -151,7 +151,7 @@ gym==0.26.2
 gym-notices==0.0.8
 h5netcdf==1.6.1
 h5py==3.13.0
-holidays==0.74
+holidays==0.75
 holoviews==1.17.1
 html5lib==1.1
 httpimport==1.4.1
