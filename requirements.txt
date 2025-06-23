@@ -217,7 +217,7 @@ locket==1.0.0
 logical-unification==0.4.6
 lxml==5.4.0
 malloy==2024.1096
-Markdown==3.8
+Markdown==3.8.2
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 matplotlib==3.10.1
