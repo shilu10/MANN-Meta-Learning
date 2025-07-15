@@ -6,7 +6,7 @@ albumentations==2.0.8
 altair==4.2.2
 anyio==4.9.0
 appdirs==1.4.4
-argon2-cffi==23.1.0
+argon2-cffi==25.1.0
 argon2-cffi-bindings==21.2.0
 array-record==0.6.0
 arviz==0.17.1
