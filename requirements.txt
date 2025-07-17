@@ -28,7 +28,7 @@ blis==1.3.0
 blosc2==3.2.0
 bokeh==3.4.3
 bqplot==0.12.45
-branca==0.7.0
+branca==0.8.1
 build==1.0.3
 CacheControl==0.14.3
 cachetools==6.1.0
