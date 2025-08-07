@@ -148,7 +148,7 @@ grpcio-status==1.73.1
 gspread==6.2.1
 gspread-dataframe==4.0.0
 gym==0.26.2
-gym-notices==0.0.8
+gym-notices==0.1.0
 h5netcdf==1.6.3
 h5py==3.14.0
 holidays==0.75
