@@ -409,7 +409,7 @@ tensorflow-gcs-config==2.16.1
 tensorflow-hub==0.16.1
 tensorflow-io-gcs-filesystem==0.37.1
 tensorflow-metadata==1.17.2
-tensorflow-probability==0.22.0
+tensorflow-probability==0.25.0
 tensorstore==0.1.72
 termcolor==3.1.0
 terminado==0.18.1
