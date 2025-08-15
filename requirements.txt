@@ -301,7 +301,7 @@ promise==2.3
 prompt-toolkit==3.0.51
 prophet==1.1.7
 proto-plus==1.26.1
-protobuf==6.31.1
+protobuf==6.32.0
 psutil==7.0.0
 psycopg2==2.9.9
 ptyprocess==0.7.0
