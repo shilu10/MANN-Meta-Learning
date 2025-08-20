@@ -327,7 +327,7 @@ PyGObject==3.52.3
 PyJWT==2.3.0
 pymc==5.12.0
 pymystem3==0.2.0
-PyOpenGL==3.1.7
+PyOpenGL==3.1.10
 pyOpenSSL==25.1.0
 pyparsing==3.2.3
 pyperclip==1.9.0
