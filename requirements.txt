@@ -266,7 +266,7 @@ optax==0.2.4
 orbax-checkpoint==0.6.4
 osqp==1.0.4
 packaging==25.0
-pandas==2.3.1
+pandas==2.3.2
 pandas-datareader==0.10.0
 pandas-gbq==0.29.2
 pandas-stubs==1.5.3.230304
