@@ -352,7 +352,7 @@ qdldl==0.1.7.post0
 qudida==0.0.4
 ratelim==0.1.6
 referencing==0.36.2
-regex==2025.7.34
+regex==2025.9.1
 requests==2.32.5
 requests-oauthlib==2.0.0
 requirements-parser==0.13.0
