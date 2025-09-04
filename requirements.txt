@@ -298,7 +298,7 @@ proglog==0.1.12
 progressbar2==4.2.0
 prometheus-client==0.22.1
 promise==2.3
-prompt-toolkit==3.0.51
+prompt-toolkit==3.0.52
 prophet==1.1.7
 proto-plus==1.26.1
 protobuf==6.32.0
