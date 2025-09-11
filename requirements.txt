@@ -155,7 +155,7 @@ holidays==0.80
 holoviews==1.20.2
 html5lib==1.1
 httpimport==1.4.1
-httplib2==0.30.2
+httplib2==0.31.0
 humanize==4.13.0
 hyperopt==0.2.7
 ibis-framework==10.8.0
