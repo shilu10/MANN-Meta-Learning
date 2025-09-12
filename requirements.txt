@@ -274,7 +274,7 @@ pandocfilters==1.5.1
 panel==1.4.5
 param==2.2.1
 parso==0.8.5
-parsy==2.1
+parsy==2.2
 partd==1.4.2
 pathlib==1.0.1
 pathy==0.11.0
