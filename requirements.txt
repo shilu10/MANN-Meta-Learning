@@ -223,7 +223,7 @@ MarkupSafe==3.0.2
 matplotlib==3.10.1
 matplotlib-inline==0.1.7
 matplotlib-venn==1.1.2
-mdit-py-plugins==0.4.0
+mdit-py-plugins==0.4.2
 mdurl==0.1.2
 miniKanren==1.0.5
 missingno==0.5.2
