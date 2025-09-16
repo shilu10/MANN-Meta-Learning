@@ -144,7 +144,7 @@ graphviz==0.21
 greenlet==3.2.4
 grpc-google-iam-v1==0.14.2
 grpcio==1.74.0
-grpcio-status==1.74.0
+grpcio-status==1.75.0
 gspread==6.2.1
 gspread-dataframe==4.0.0
 gym==0.26.2
