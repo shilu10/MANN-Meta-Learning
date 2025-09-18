@@ -328,7 +328,7 @@ PyJWT==2.10.1
 pymc==5.12.0
 pymystem3==0.2.0
 PyOpenGL==3.1.10
-pyOpenSSL==25.1.0
+pyOpenSSL==25.3.0
 pyparsing==3.2.4
 pyperclip==1.9.0
 pyproj==3.6.1
