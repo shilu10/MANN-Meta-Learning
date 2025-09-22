@@ -75,7 +75,7 @@ dm-tree==0.1.9
 docutils==0.22.1
 dopamine-rl==4.1.2
 duckdb==1.4.0
-earthengine-api==1.6.8
+earthengine-api==1.6.9
 easydict==1.13
 ecos==2.0.14
 editdistance==0.8.1
