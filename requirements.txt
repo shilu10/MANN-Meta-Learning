@@ -68,7 +68,7 @@ debugpy==1.8.17
 decorator==5.2.1
 defusedxml==0.7.1
 diskcache==5.6.3
-distributed==2024.8.0
+distributed==2025.9.1
 distro==1.9.0
 dlib==20.0.0
 dm-tree==0.1.9
