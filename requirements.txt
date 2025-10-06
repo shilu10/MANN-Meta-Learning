@@ -332,7 +332,7 @@ pyOpenSSL==25.3.0
 pyparsing==3.2.5
 pyperclip==1.11.0
 pyproj==3.6.1
-pyproject_hooks==1.0.0
+pyproject_hooks==1.2.0
 pyshp==2.3.1
 PySocks==1.7.1
 pytensor==2.28.3
