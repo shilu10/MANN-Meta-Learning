@@ -458,7 +458,7 @@ xarray==2024.7.0
 xarray-einstats==0.9.1
 xgboost==2.1.4
 xlrd==2.0.2
-xxhash==3.5.0
+xxhash==3.6.0
 xyzservices==2025.4.0
 yarl==1.22.0
 yellowbrick==1.5
