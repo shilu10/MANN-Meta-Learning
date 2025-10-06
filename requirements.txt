@@ -101,7 +101,7 @@ flax==0.8.5
 folium==0.20.0
 fonttools==4.60.1
 frozendict==2.4.6
-frozenlist==1.7.0
+frozenlist==1.8.0
 fsspec==2025.9.0
 future==1.0.0
 gast==0.6.0
