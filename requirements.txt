@@ -325,7 +325,7 @@ pygame==2.5.2
 Pygments==2.19.2
 PyGObject==3.54.3
 PyJWT==2.10.1
-pymc==5.12.0
+pymc==5.25.1
 pymystem3==0.2.0
 PyOpenGL==3.1.10
 pyOpenSSL==25.3.0
