@@ -163,7 +163,7 @@ idna==3.10
 imageio==2.37.0
 imageio-ffmpeg==0.6.0
 imagesize==1.4.1
-imbalanced-learn==0.13.0
+imbalanced-learn==0.14.0
 imgaug==0.4.0
 importlib-metadata==8.7.0
 importlib-resources==6.5.2
