@@ -74,7 +74,7 @@ dlib==20.0.0
 dm-tree==0.1.9
 docutils==0.22.2
 dopamine-rl==4.1.2
-duckdb==1.4.0
+duckdb==1.4.1
 earthengine-api==1.6.10
 easydict==1.13
 ecos==2.0.14
