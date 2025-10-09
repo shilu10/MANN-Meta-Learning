@@ -366,7 +366,7 @@ scipy==1.16.2
 scooby==0.10.2
 scs==3.2.8
 seaborn==0.13.2
-SecretStorage==3.3.3
+SecretStorage==3.4.0
 Send2Trash==1.8.3
 shapely==2.0.7
 six==1.17.0
