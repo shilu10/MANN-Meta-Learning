@@ -92,7 +92,7 @@ fastdownload==0.0.7
 fastjsonschema==2.21.2
 fastprogress==1.0.3
 fastrlock==0.8.2
-filelock==3.19.1
+filelock==3.20.0
 fiona==1.9.5
 firebase-admin==7.1.0
 Flask==3.1.2
