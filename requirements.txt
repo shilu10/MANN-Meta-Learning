@@ -433,7 +433,7 @@ tornado==6.5.2
 tqdm==4.67.1
 traitlets==5.14.3
 traittypes==0.2.1
-triton==3.4.0
+triton==3.5.0
 tweepy==4.16.0
 typer==0.19.2
 types-pytz==2025.2.0.20250809
