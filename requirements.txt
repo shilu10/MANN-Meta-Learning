@@ -282,7 +282,7 @@ patsy==1.0.1
 peewee==3.18.2
 pexpect==4.9.0
 pickleshare==0.7.5
-Pillow==11.3.0
+Pillow==12.0.0
 pip-tools==7.5.1
 platformdirs==4.5.0
 plotly==6.3.1
