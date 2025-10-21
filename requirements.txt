@@ -214,7 +214,7 @@ linkify-it-py==2.0.3
 llmx==0.0.21a0
 llvmlite==0.45.1
 locket==1.0.0
-logical-unification==0.4.6
+logical-unification==0.4.7
 lxml==6.0.2
 malloy==2024.1096
 Markdown==3.9
