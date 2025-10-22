@@ -422,7 +422,7 @@ tifffile==2025.10.4
 tinycss2==1.4.0
 toml==0.10.2
 tomli==2.3.0
-toolz==1.0.0
+toolz==1.1.0
 torch @ https://download.pytorch.org/whl/cu118/torch-2.1.0%2Bcu118-cp310-cp310-linux_x86_64.whl#sha256=a81b554184492005543ddc32e96469f9369d778dedd195d73bda9bed407d6589
 torchaudio @ https://download.pytorch.org/whl/cu118/torchaudio-2.1.0%2Bcu118-cp310-cp310-linux_x86_64.whl#sha256=cdfd0a129406155eee595f408cafbb92589652da4090d1d2040f5453d4cae71f
 torchdata==0.11.0
